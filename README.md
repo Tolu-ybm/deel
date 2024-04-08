@@ -1,5 +1,5 @@
 # deel
-A front end monologue
+A front end monolith 
 A quick synopsis on Deel fool app
 
 The distinguishing features of the Deel food share app that set it apart from competitors are:
